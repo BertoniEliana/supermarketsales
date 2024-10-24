@@ -1,6 +1,0 @@
-conda env list
-conda env create
-conda activate eli
-vscode --> crtl shift p --> select interpreter
-
-jupyter notebook -->select kernel --> python enviroments --> eli 
