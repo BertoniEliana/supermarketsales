@@ -8,7 +8,7 @@ Este repositorio contiene un análisis detallado de las ventas de un supermercad
   - `Supermarket_sales.ipynb`: Contiene el análisis exploratorio de datos, generación de métricas y visualizaciones clave.
 
 - **Datos**:
- - El archivo `supermarket_sales.csv`, ubicado dentro de la carpeta `data/`, contiene la información base para el análisis.
+ - El archivo `supermarket_sales.csv`, ubicado dentro de la carpeta `Data/`, contiene la información base para el análisis.
 
 ## Objetivos del Análisis
 
